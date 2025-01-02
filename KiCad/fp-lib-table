@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "satshakit_fc")(type "KiCad")(uri "$(KIPRJMOD)/satshakit_fc.pretty")(options "")(descr ""))
-)
